@@ -34,28 +34,24 @@ Objetivo general (Entrega 2): *desarrollar e implementar, entre noviembre de 202
 EcoMercado-Inventario-Facturacion/
 ├── README.md                     ← portada del proyecto (este archivo)
 ├── CONTRIBUTING.md               ← reglas de trabajo: ramas, commits y Pull Requests
-├── .gitignore
-├── .github/
-│   ├── pull_request_template.md  ← checklist de revisión de pares
-│   └── ISSUE_TEMPLATE/
-│       └── historia-de-usuario.md
-└── docs/
-    ├── 01-caso-de-estudio.md         ← Entrega 1: organización y enfoque sistémico
-    ├── 02-planificacion.md           ← Entrega 2: FODA, objetivos, metas y Gantt
-    ├── 03-organizacion-y-datos.md    ← Entrega 3: organigrama y diccionario de datos
-    ├── 04-proceso-bpmn.md            ← Entrega 4: modelado del proceso (BPMN)
-    ├── 05-historias-de-usuario.md    ← Entrega 4: backlog ágil
-    ├── 06-indicadores-de-control.md  ← Entrega 4: estándares e indicadores de control
-    ├── historias/                    ← una especificación por historia de usuario
-    ├── img/                          ← diagramas (BPMN, FODA, Gantt, organigramas)
-    └── entregas/                     ← PDF de cada entrega del TPI
+├── pull_request_template.md      ← plantilla de PR con checklist de revisión
+├── historia-de-usuario.md        ← plantilla para cargar historias de usuario
+├── 01-caso-de-estudio.md         ← Entrega 1: organización y enfoque sistémico
+├── 02-planificacion.md           ← Entrega 2: FODA, objetivos, metas y Gantt
+├── 03-organizacion-y-datos.md    ← Entrega 3: organigrama y diccionario de datos
+├── 04-proceso-bpmn.md            ← Entrega 4: modelado del proceso (BPMN)
+├── 05-historias-de-usuario.md    ← Entrega 4: backlog ágil
+├── 06-indicadores-de-control.md  ← Entrega 4: estándares e indicadores de control
+├── HU1, HU2 y HU3 (.md)          ← especificación de cada historia de usuario
+├── archivos .png y .svg          ← diagramas (BPMN, FODA, Gantt, organigramas)
+└── Entrega1, 2 y 3 (.pdf)        ← PDF de cada entrega del TPI
 ```
 
 ## 3. Proceso que el sistema automatiza (BPMN)
 
-![Diagrama BPMN del proceso de venta y facturación](docs/img/bpmn-proceso-venta-facturacion.png)
+![Diagrama BPMN del proceso de venta y facturación](bpmn-proceso-venta-facturacion.png)
 
-Explicación completa en [`docs/04-proceso-bpmn.md`](docs/04-proceso-bpmn.md).
+Explicación completa en [`04-proceso-bpmn.md`](04-proceso-bpmn.md).
 
 ## 4. Backlog: historias de usuario
 
@@ -65,7 +61,7 @@ Explicación completa en [`docs/04-proceso-bpmn.md`](docs/04-proceso-bpmn.md).
 | HU2 | Como **responsable de Facturación y Cobranzas**, quiero que **cada venta pagada genere automáticamente su factura electrónica con CAE de ARCA**, para **no cargar comprobantes a mano y cumplir con la normativa fiscal**. | Alta | #2 |
 | HU3 | Como **encargado/a de Compras y Abastecimiento**, quiero **recibir una alerta cuando un producto baje de su stock mínimo**, para **reponer a tiempo y no perder ventas por falta de mercadería**. | Media | #3 |
 
-Cada historia es un *issue* del repositorio, vinculado al tablero de [GitHub Projects](https://github.com/users/rouvierariadna/projects/1) con los estados **Por hacer → En progreso → Listo**. Detalle y criterios de aceptación en [`docs/05-historias-de-usuario.md`](docs/05-historias-de-usuario.md).
+Cada historia es un *issue* del repositorio, vinculado al tablero de [GitHub Projects](https://github.com/users/rouvierariadna/projects/1) con los estados **Por hacer → En progreso → Listo**. Detalle y criterios de aceptación en [`05-historias-de-usuario.md`](05-historias-de-usuario.md).
 
 ## 5. Cómo se trabaja en este repositorio
 
@@ -78,7 +74,7 @@ Reglas completas en [`CONTRIBUTING.md`](CONTRIBUTING.md).
 
 ## 6. Control del proyecto y del sistema
 
-Los estándares de desempeño surgen de las metas M1 a M7 (Entrega 2) y se controlan con indicadores en semáforo (verde, amarillo, rojo), cada uno con su fuente de datos, frecuencia, responsable y acción correctiva. Detalle en [`docs/06-indicadores-de-control.md`](docs/06-indicadores-de-control.md).
+Los estándares de desempeño surgen de las metas M1 a M7 (Entrega 2) y se controlan con indicadores en semáforo (verde, amarillo, rojo), cada uno con su fuente de datos, frecuencia, responsable y acción correctiva. Detalle en [`06-indicadores-de-control.md`](06-indicadores-de-control.md).
 
 | Indicador clave | Estándar |
 |---|---|

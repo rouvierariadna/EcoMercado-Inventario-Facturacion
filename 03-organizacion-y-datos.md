@@ -2,11 +2,11 @@
 
 ## Organigrama de EcoMercado
 
-![Organigrama general](img/organigrama-ecomercado.png)
+![Organigrama general](organigrama-ecomercado.png)
 
 Estructura **lineal con staff** y departamentalización funcional, con tres niveles: Dirección General, tres gerencias (Comercial, Operaciones y Administración y Finanzas) y seis sectores. El **Equipo de Proyecto de Sistemas** es staff temporal de la Dirección.
 
-![Equipo de proyecto](img/organigrama-equipo-proyecto.png)
+![Equipo de proyecto](organigrama-equipo-proyecto.png)
 
 ## Diccionario de datos (entidades)
 
@@ -21,4 +21,4 @@ Estructura **lineal con staff** y departamentalización funcional, con tres nive
 
 Estas entidades son las que aparecen en el diagrama BPMN ([`04-proceso-bpmn.md`](04-proceso-bpmn.md)) y en las historias de usuario.
 
-📄 Documento completo: [`entregas/Entrega3_EcoMercado_Rouvier.pdf`](entregas/Entrega3_EcoMercado_Rouvier.pdf)
+📄 Documento completo: [`Entrega3_EcoMercado_Rouvier.pdf`](Entrega3_EcoMercado_Rouvier.pdf)

@@ -2,7 +2,7 @@
 
 ## Análisis FODA del proyecto
 
-![Matriz FODA](img/foda-proyecto.png)
+![Matriz FODA](foda-proyecto.png)
 
 Conclusión: el proyecto es **viable**. Los riesgos principales (integración con ARCA, migración de datos y presupuesto) se gestionan con estrategias FO, DO, FA y DA.
 
@@ -20,8 +20,8 @@ Conclusión: el proyecto es **viable**. Los riesgos principales (integración co
 
 ## Diagrama de Gantt
 
-![Diagrama de Gantt](img/gantt-proyecto.png)
+![Diagrama de Gantt](gantt-proyecto.png)
 
 84 días hábiles (02/11/2026 al 12/03/2027). Hitos: H1 requerimientos aprobados (18/11) · H2 fin de codificación (28/01) · H3 aprobación de los empleados (16/02) · H4 puesta en marcha (01/03) · H5 cierre (12/03).
 
-📄 Documento completo: [`entregas/Entrega2_EcoMercado_Rouvier.pdf`](entregas/Entrega2_EcoMercado_Rouvier.pdf)
+📄 Documento completo: [`Entrega2_EcoMercado_Rouvier.pdf`](Entrega2_EcoMercado_Rouvier.pdf)
