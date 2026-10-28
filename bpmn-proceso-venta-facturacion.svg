@@ -1,0 +1,195 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="800" viewBox="0 0 1800 800" font-family="Liberation Sans, Arial" font-size="12">
+<defs><marker id="sq" markerWidth="10" markerHeight="10" refX="9" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#1A2942"/></marker><marker id="ms" markerWidth="11" markerHeight="11" refX="10" refY="5.5" orient="auto"><path d="M0,0 L10,5.5 L0,11 z" fill="#fff" stroke="#1A2942"/></marker><marker id="mc" markerWidth="9" markerHeight="9" refX="4.5" refY="4.5"><circle cx="4.5" cy="4.5" r="3.5" fill="#fff" stroke="#1A2942"/></marker></defs>
+<rect width="1800" height="800" fill="#fff"/>
+<rect x="10" y="10" width="1780" height="50" fill="#fff" stroke="#1A2942" stroke-width="1.6"/>
+<text x="900.0" y="40.0" text-anchor="middle" font-weight="bold" font-size="13">Pool: CLIENTE (persona que compra en el local o en la tienda online)</text>
+<rect x="10" y="90" width="1780" height="610" fill="#fff" stroke="#1A2942" stroke-width="1.6"/>
+<rect x="10" y="90" width="22" height="610" fill="#1A2942"/>
+<text x="21" y="395.0" fill="#fff" font-weight="bold" font-size="12.5" text-anchor="middle" transform="rotate(-90 21 395.0)">Pool: ECOMERCADO S.R.L. — Venta y facturación (TO-BE)</text>
+<rect x="32" y="90" width="1758" height="150" fill="#fff" stroke="#1A2942" stroke-width="1"/>
+<rect x="32" y="90" width="30" height="150" fill="#DCE8E9" stroke="#1A2942" stroke-width="1"/>
+<text x="44" y="165.0" text-anchor="middle" font-size="9.5" font-weight="bold" transform="rotate(-90 44 165.0)">Ventas</text>
+<text x="56" y="165.0" text-anchor="middle" font-size="9.5" font-weight="bold" transform="rotate(-90 56 165.0)">(Local y E-commerce)</text>
+<rect x="32" y="240" width="1758" height="100" fill="#FAFBFB" stroke="#1A2942" stroke-width="1"/>
+<rect x="32" y="240" width="30" height="100" fill="#DCE8E9" stroke="#1A2942" stroke-width="1"/>
+<text x="44" y="290.0" text-anchor="middle" font-size="9.5" font-weight="bold" transform="rotate(-90 44 290.0)">Depósito y</text>
+<text x="56" y="290.0" text-anchor="middle" font-size="9.5" font-weight="bold" transform="rotate(-90 56 290.0)">Logística</text>
+<rect x="32" y="340" width="1758" height="160" fill="#EEF5F5" stroke="#1A2942" stroke-width="1"/>
+<rect x="32" y="340" width="30" height="160" fill="#DCE8E9" stroke="#1A2942" stroke-width="1"/>
+<text x="44" y="420.0" text-anchor="middle" font-size="9.5" font-weight="bold" transform="rotate(-90 44 420.0)">Módulo de Inventario y</text>
+<text x="56" y="420.0" text-anchor="middle" font-size="9.5" font-weight="bold" transform="rotate(-90 56 420.0)">Facturación (sistema)</text>
+<rect x="32" y="500" width="1758" height="100" fill="#FAFBFB" stroke="#1A2942" stroke-width="1"/>
+<rect x="32" y="500" width="30" height="100" fill="#DCE8E9" stroke="#1A2942" stroke-width="1"/>
+<text x="44" y="550.0" text-anchor="middle" font-size="9.5" font-weight="bold" transform="rotate(-90 44 550.0)">Compras y</text>
+<text x="56" y="550.0" text-anchor="middle" font-size="9.5" font-weight="bold" transform="rotate(-90 56 550.0)">Abastecimiento</text>
+<rect x="32" y="600" width="1758" height="100" fill="#fff" stroke="#1A2942" stroke-width="1"/>
+<rect x="32" y="600" width="30" height="100" fill="#DCE8E9" stroke="#1A2942" stroke-width="1"/>
+<text x="44" y="650.0" text-anchor="middle" font-size="9.5" font-weight="bold" transform="rotate(-90 44 650.0)">Facturación y</text>
+<text x="56" y="650.0" text-anchor="middle" font-size="9.5" font-weight="bold" transform="rotate(-90 56 650.0)">Cobranzas</text>
+<rect x="60" y="740" width="1000" height="50" fill="#fff" stroke="#1A2942" stroke-width="1.6"/>
+<text x="560.0" y="770.0" text-anchor="middle" font-weight="bold" font-size="13">Pool: ARCA (Web Service de Factura Electrónica)</text>
+<rect x="1100" y="740" width="690" height="50" fill="#fff" stroke="#1A2942" stroke-width="1.6"/>
+<text x="1445.0" y="770.0" text-anchor="middle" font-weight="bold" font-size="13">Pool: PROVEEDOR</text>
+<circle cx="98" cy="200" r="15" fill="#EAF6EC" stroke="#2E7D32" stroke-width="1.6"/>
+<rect x="91" y="195" width="14" height="10" fill="#fff" stroke="#1A2942"/><path d="M91,195 L98,201 L105,195" fill="none" stroke="#1A2942"/>
+<text x="98" y="228.0" text-anchor="middle" font-size="9" fill="#1A2942">Pedido del cliente</text>
+<path d="M98,60 L98,183" fill="none" stroke="#1A2942" stroke-width="1.2" stroke-dasharray="6 4" marker-start="url(#mc)" marker-end="url(#ms)"/>
+<text x="104" y="120.0" text-anchor="start" font-size="9" fill="#4A5568">Pedido</text>
+<rect x="145.0" y="176.0" width="110" height="48" rx="9" fill="#fff" stroke="#408186" stroke-width="1.6"/>
+<text x="200" y="197.5" text-anchor="middle" font-size="10.5">Registrar venta</text>
+<text x="200" y="210.5" text-anchor="middle" font-size="10.5">(caja o web)</text>
+<circle cx="155.0" cy="183.5" r="3" fill="none" stroke="#1A2942"/><path d="M150.0,192.0 Q150.0,186.5 155.0,186.5 Q160.0,186.5 160.0,192.0 Z" fill="none" stroke="#1A2942"/>
+<path d="M113,200 L143,200" fill="none" stroke="#1A2942" stroke-width="1.4" marker-end="url(#sq)"/>
+<rect x="245.0" y="396.0" width="110" height="48" rx="9" fill="#fff" stroke="#408186" stroke-width="1.6"/>
+<text x="300" y="417.5" text-anchor="middle" font-size="10.5">Verificar stock</text>
+<text x="300" y="430.5" text-anchor="middle" font-size="10.5">disponible por lote</text>
+<circle cx="256.0" cy="406.0" r="4.5" fill="none" stroke="#1A2942" stroke-width="2.4" stroke-dasharray="2 1.6"/><circle cx="256.0" cy="406.0" r="1.8" fill="none" stroke="#1A2942"/>
+<path d="M200,224 L200,420 L243,420" fill="none" stroke="#1A2942" stroke-width="1.4" marker-end="url(#sq)"/>
+<polygon points="410,402 428,420 410,438 392,420" fill="#FFF6E0" stroke="#D9A400" stroke-width="1.6"/>
+<path d="M404,414 L416,426 M416,414 L404,426" stroke="#1A2942" stroke-width="2.6"/>
+<text x="410" y="450.0" text-anchor="middle" font-size="9.5" fill="#1A2942" font-weight="bold">¿Hay stock</text>
+<text x="410" y="461.5" text-anchor="middle" font-size="9.5" fill="#1A2942" font-weight="bold">suficiente?</text>
+<path d="M355,420 L390,420" fill="none" stroke="#1A2942" stroke-width="1.4" marker-end="url(#sq)"/>
+<rect x="355.0" y="101.0" width="110" height="48" rx="9" fill="#fff" stroke="#408186" stroke-width="1.6"/>
+<text x="410" y="122.5" text-anchor="middle" font-size="10.5">Informar falta de</text>
+<text x="410" y="135.5" text-anchor="middle" font-size="10.5">stock al cliente</text>
+<rect x="360.0" y="106.0" width="12" height="8" fill="#1A2942"/><path d="M360.0,106.0 L366.0,111.0 L372.0,106.0" fill="none" stroke="#fff"/>
+<path d="M410,402 L410,151" fill="none" stroke="#1A2942" stroke-width="1.4" marker-end="url(#sq)"/>
+<text x="418" y="300.0" text-anchor="middle" font-size="9.5" fill="#2C6468" font-weight="bold">No</text>
+<circle cx="530" cy="125" r="15" fill="#FDECEC" stroke="#C62828" stroke-width="4"/>
+<text x="530" y="153.0" text-anchor="middle" font-size="9" fill="#1A2942">Venta no concretada</text>
+<path d="M465,125 L513,125" fill="none" stroke="#1A2942" stroke-width="1.4" marker-end="url(#sq)"/>
+<path d="M410,99 L410,61" fill="none" stroke="#1A2942" stroke-width="1.2" stroke-dasharray="6 4" marker-start="url(#mc)" marker-end="url(#ms)"/>
+<text x="416" y="82.0" text-anchor="start" font-size="9" fill="#4A5568">Aviso sin stock</text>
+<rect x="515.0" y="176.0" width="110" height="48" rx="9" fill="#fff" stroke="#408186" stroke-width="1.6"/>
+<text x="570" y="204.0" text-anchor="middle" font-size="10.5">Cobrar venta</text>
+<circle cx="525.0" cy="183.5" r="3" fill="none" stroke="#1A2942"/><path d="M520.0,192.0 Q520.0,186.5 525.0,186.5 Q530.0,186.5 530.0,192.0 Z" fill="none" stroke="#1A2942"/>
+<path d="M428,420 L570,420 L570,226" fill="none" stroke="#1A2942" stroke-width="1.4" marker-end="url(#sq)"/>
+<text x="520" y="412.0" text-anchor="middle" font-size="9.5" fill="#2C6468" font-weight="bold">Sí</text>
+<path d="M590,61 L590,175" fill="none" stroke="#1A2942" stroke-width="1.2" stroke-dasharray="6 4" marker-start="url(#mc)" marker-end="url(#ms)"/>
+<text x="596" y="82.0" text-anchor="start" font-size="9" fill="#4A5568">Pago</text>
+<polygon points="690,182 708,200 690,218 672,200" fill="#FFF6E0" stroke="#D9A400" stroke-width="1.6"/>
+<path d="M684,194 L696,206 M696,194 L684,206" stroke="#1A2942" stroke-width="2.6"/>
+<text x="690" y="230.0" text-anchor="middle" font-size="9.5" fill="#1A2942" font-weight="bold">¿Pago</text>
+<text x="690" y="241.5" text-anchor="middle" font-size="9.5" fill="#1A2942" font-weight="bold">aprobado?</text>
+<path d="M625,200 L670,200" fill="none" stroke="#1A2942" stroke-width="1.4" marker-end="url(#sq)"/>
+<circle cx="690" cy="125" r="15" fill="#FDECEC" stroke="#C62828" stroke-width="4"/>
+<text x="690" y="103.0" text-anchor="middle" font-size="9" fill="#1A2942">Venta anulada</text>
+<path d="M690,182 L690,142" fill="none" stroke="#1A2942" stroke-width="1.4" marker-end="url(#sq)"/>
+<text x="698" y="166.0" text-anchor="middle" font-size="9.5" fill="#2C6468" font-weight="bold">No</text>
+<polygon points="780,402 798,420 780,438 762,420" fill="#FFF6E0" stroke="#D9A400" stroke-width="1.6"/>
+<path d="M780,412 L780,428 M772,420 L788,420" stroke="#1A2942" stroke-width="2.6"/>
+<path d="M708,200 L740,200 L740,420 L760,420" fill="none" stroke="#1A2942" stroke-width="1.4" marker-end="url(#sq)"/>
+<text x="716" y="194.0" text-anchor="middle" font-size="9.5" fill="#2C6468" font-weight="bold">Sí</text>
+<rect x="825.0" y="351.0" width="130" height="48" rx="9" fill="#fff" stroke="#408186" stroke-width="1.6"/>
+<text x="890" y="372.5" text-anchor="middle" font-size="10.5">Descontar stock del lote</text>
+<text x="890" y="385.5" text-anchor="middle" font-size="10.5">que vence primero</text>
+<path d="M832.0,355.0 L841.0,355.0 Q838.0,361.0 841.0,367.0 L832.0,367.0 Q835.0,361.0 832.0,355.0 Z" fill="none" stroke="#1A2942"/><line x1="834.0" y1="359.0" x2="838.0" y2="359.0" stroke="#1A2942"/><line x1="835.0" y1="363.0" x2="839.0" y2="363.0" stroke="#1A2942"/>
+<path d="M780,402 L780,375 L823,375" fill="none" stroke="#1A2942" stroke-width="1.4" marker-end="url(#sq)"/>
+<polygon points="1010,357 1028,375 1010,393 992,375" fill="#FFF6E0" stroke="#D9A400" stroke-width="1.6"/>
+<path d="M1004,369 L1016,381 M1016,369 L1004,381" stroke="#1A2942" stroke-width="2.6"/>
+<text x="1010" y="340.0" text-anchor="middle" font-size="9.5" fill="#1A2942" font-weight="bold">¿Stock bajo</text>
+<text x="1010" y="351.5" text-anchor="middle" font-size="9.5" fill="#1A2942" font-weight="bold">el mínimo?</text>
+<path d="M955,375 L990,375" fill="none" stroke="#1A2942" stroke-width="1.4" marker-end="url(#sq)"/>
+<circle cx="1095" cy="375" r="15" fill="#FFF6E0" stroke="#D9A400" stroke-width="1.5"/><circle cx="1095" cy="375" r="11.5" fill="none" stroke="#D9A400" stroke-width="1.2"/>
+<polygon points="1095,368 1102,380 1088,380" fill="#1A2942"/>
+<text x="1095" y="342.0" text-anchor="middle" font-size="9" fill="#1A2942">Alerta de</text>
+<text x="1095" y="353.5" text-anchor="middle" font-size="9" fill="#1A2942">reposición</text>
+<path d="M1028,375 L1078,375" fill="none" stroke="#1A2942" stroke-width="1.4" marker-end="url(#sq)"/>
+<text x="1050" y="368.0" text-anchor="middle" font-size="9.5" fill="#2C6468" font-weight="bold">Sí</text>
+<polygon points="1180,357 1198,375 1180,393 1162,375" fill="#FFF6E0" stroke="#D9A400" stroke-width="1.6"/>
+<path d="M1174,369 L1186,381 M1186,369 L1174,381" stroke="#1A2942" stroke-width="2.6"/>
+<path d="M1112,375 L1160,375" fill="none" stroke="#1A2942" stroke-width="1.4" marker-end="url(#sq)"/>
+<path d="M1010,393 L1010,412 L1180,412 L1180,395" fill="none" stroke="#1A2942" stroke-width="1.4" marker-end="url(#sq)"/>
+<text x="1030" y="409.0" text-anchor="middle" font-size="9.5" fill="#2C6468" font-weight="bold">No</text>
+<rect x="825.0" y="436.0" width="130" height="48" rx="9" fill="#fff" stroke="#408186" stroke-width="1.6"/>
+<text x="890" y="457.5" text-anchor="middle" font-size="10.5">Solicitar CAE y emitir</text>
+<text x="890" y="470.5" text-anchor="middle" font-size="10.5">factura electrónica</text>
+<circle cx="836.0" cy="446.0" r="4.5" fill="none" stroke="#1A2942" stroke-width="2.4" stroke-dasharray="2 1.6"/><circle cx="836.0" cy="446.0" r="1.8" fill="none" stroke="#1A2942"/>
+<path d="M780,438 L780,460 L823,460" fill="none" stroke="#1A2942" stroke-width="1.4" marker-end="url(#sq)"/>
+<path d="M845,486 L845,739" fill="none" stroke="#1A2942" stroke-width="1.2" stroke-dasharray="6 4" marker-start="url(#mc)" marker-end="url(#ms)"/>
+<text x="839" y="712.0" text-anchor="end" font-size="9" fill="#4A5568">Solicitud de</text>
+<text x="839" y="723.5" text-anchor="end" font-size="9" fill="#4A5568">autorización</text>
+<path d="M885,739 L885,486" fill="none" stroke="#1A2942" stroke-width="1.2" stroke-dasharray="6 4" marker-start="url(#mc)" marker-end="url(#ms)"/>
+<text x="891" y="720.0" text-anchor="start" font-size="9" fill="#4A5568">CAE</text>
+<polygon points="1010,442 1028,460 1010,478 992,460" fill="#FFF6E0" stroke="#D9A400" stroke-width="1.6"/>
+<path d="M1004,454 L1016,466 M1016,454 L1004,466" stroke="#1A2942" stroke-width="2.6"/>
+<text x="1026" y="490.0" text-anchor="start" font-size="9.5" fill="#1A2942" font-weight="bold">¿ARCA devolvió</text>
+<text x="1026" y="501.5" text-anchor="start" font-size="9.5" fill="#1A2942" font-weight="bold">el CAE?</text>
+<path d="M955,460 L990,460" fill="none" stroke="#1A2942" stroke-width="1.4" marker-end="url(#sq)"/>
+<rect x="955.0" y="626.0" width="110" height="48" rx="9" fill="#fff" stroke="#408186" stroke-width="1.6"/>
+<text x="1010" y="647.5" text-anchor="middle" font-size="10.5">Supervisar factura</text>
+<text x="1010" y="660.5" text-anchor="middle" font-size="10.5">Pendiente</text>
+<circle cx="965.0" cy="633.5" r="3" fill="none" stroke="#1A2942"/><path d="M960.0,642.0 Q960.0,636.5 965.0,636.5 Q970.0,636.5 970.0,642.0 Z" fill="none" stroke="#1A2942"/>
+<path d="M1010,478 L1010,498" fill="none" stroke="#1A2942" stroke-width="1.4" marker-end="url(#sq)"/>
+<path d="M1010,498 L1010,624" fill="none" stroke="#1A2942" stroke-width="1.4" marker-end="url(#sq)"/>
+<text x="1018" y="580.0" text-anchor="start" font-size="9.5" fill="#2C6468" font-weight="bold">No</text>
+<circle cx="1120" cy="650" r="15" fill="#FFF6E0" stroke="#D9A400" stroke-width="1.5"/><circle cx="1120" cy="650" r="11.5" fill="none" stroke="#D9A400" stroke-width="1.2"/>
+<circle cx="1120" cy="650" r="8" fill="#fff" stroke="#1A2942"/><path d="M1120,645 L1120,650 L1124,652" fill="none" stroke="#1A2942"/>
+<text x="1142" y="646.0" text-anchor="start" font-size="9" fill="#1A2942">Esperar 15 min</text>
+<text x="1142" y="657.5" text-anchor="start" font-size="9" fill="#1A2942">y reintentar</text>
+<path d="M1065,650 L1103,650" fill="none" stroke="#1A2942" stroke-width="1.4" marker-end="url(#sq)"/>
+<path d="M1120,665 L1120,690 L920,690 L920,486" fill="none" stroke="#1A2942" stroke-width="1.4" marker-end="url(#sq)"/>
+<polygon points="1270,402 1288,420 1270,438 1252,420" fill="#FFF6E0" stroke="#D9A400" stroke-width="1.6"/>
+<path d="M1270,412 L1270,428 M1262,420 L1278,420" stroke="#1A2942" stroke-width="2.6"/>
+<path d="M1200,375 L1270,375 L1270,400" fill="none" stroke="#1A2942" stroke-width="1.4" marker-end="url(#sq)"/>
+<path d="M1028,460 L1270,460 L1270,440" fill="none" stroke="#1A2942" stroke-width="1.4" marker-end="url(#sq)"/>
+<text x="1100" y="454.0" text-anchor="middle" font-size="9.5" fill="#2C6468" font-weight="bold">Sí</text>
+<polygon points="1360,402 1378,420 1360,438 1342,420" fill="#FFF6E0" stroke="#D9A400" stroke-width="1.6"/>
+<path d="M1354,414 L1366,426 M1366,414 L1354,426" stroke="#1A2942" stroke-width="2.6"/>
+<text x="1360" y="452.0" text-anchor="middle" font-size="9.5" fill="#1A2942" font-weight="bold">¿Canal de</text>
+<text x="1360" y="463.5" text-anchor="middle" font-size="9.5" fill="#1A2942" font-weight="bold">venta?</text>
+<path d="M1288,420 L1340,420" fill="none" stroke="#1A2942" stroke-width="1.4" marker-end="url(#sq)"/>
+<rect x="1300.0" y="176.0" width="120" height="48" rx="9" fill="#fff" stroke="#408186" stroke-width="1.6"/>
+<text x="1360" y="197.5" text-anchor="middle" font-size="10.5">Entregar productos</text>
+<text x="1360" y="210.5" text-anchor="middle" font-size="10.5">con ticket y factura</text>
+<path d="M1305.0,190.0 L1305.0,184.0 L1315.0,184.0 M1308.0,187.0 L1316.0,187.0 M1308.0,190.0 L1315.0,190.0" fill="none" stroke="#1A2942"/>
+<path d="M1360,402 L1360,226" fill="none" stroke="#1A2942" stroke-width="1.4" marker-end="url(#sq)"/>
+<text x="1368" y="300.0" text-anchor="middle" font-size="9.5" fill="#2C6468" font-weight="bold">Local</text>
+<circle cx="1480" cy="200" r="15" fill="#FDECEC" stroke="#C62828" stroke-width="4"/>
+<text x="1480" y="228.0" text-anchor="middle" font-size="9" fill="#1A2942">Venta completada</text>
+<path d="M1420,200 L1463,200" fill="none" stroke="#1A2942" stroke-width="1.4" marker-end="url(#sq)"/>
+<path d="M1360,174 L1360,61" fill="none" stroke="#1A2942" stroke-width="1.2" stroke-dasharray="6 4" marker-start="url(#mc)" marker-end="url(#ms)"/>
+<text x="1366" y="82.0" text-anchor="start" font-size="9" fill="#4A5568">Productos + factura</text>
+<rect x="1425.0" y="266.0" width="110" height="48" rx="9" fill="#fff" stroke="#408186" stroke-width="1.6"/>
+<text x="1480" y="287.5" text-anchor="middle" font-size="10.5">Armar pedido</text>
+<text x="1480" y="300.5" text-anchor="middle" font-size="10.5">(FEFO por lote)</text>
+<circle cx="1435.0" cy="273.5" r="3" fill="none" stroke="#1A2942"/><path d="M1430.0,282.0 Q1430.0,276.5 1435.0,276.5 Q1440.0,276.5 1440.0,282.0 Z" fill="none" stroke="#1A2942"/>
+<path d="M1378,420 L1480,420 L1480,316" fill="none" stroke="#1A2942" stroke-width="1.4" marker-end="url(#sq)"/>
+<text x="1420" y="412.0" text-anchor="middle" font-size="9.5" fill="#2C6468" font-weight="bold">Online</text>
+<rect x="1560.0" y="266.0" width="120" height="48" rx="9" fill="#fff" stroke="#408186" stroke-width="1.6"/>
+<text x="1620" y="287.5" text-anchor="middle" font-size="10.5">Despachar envío y</text>
+<text x="1620" y="300.5" text-anchor="middle" font-size="10.5">enviar factura</text>
+<rect x="1565.0" y="271.0" width="12" height="8" fill="#1A2942"/><path d="M1565.0,271.0 L1571.0,276.0 L1577.0,271.0" fill="none" stroke="#fff"/>
+<path d="M1535,290 L1558,290" fill="none" stroke="#1A2942" stroke-width="1.4" marker-end="url(#sq)"/>
+<circle cx="1740" cy="290" r="15" fill="#FDECEC" stroke="#C62828" stroke-width="4"/>
+<text x="1740" y="318.0" text-anchor="middle" font-size="9" fill="#1A2942">Pedido despachado</text>
+<path d="M1680,290 L1723,290" fill="none" stroke="#1A2942" stroke-width="1.4" marker-end="url(#sq)"/>
+<path d="M1620,264 L1620,61" fill="none" stroke="#1A2942" stroke-width="1.2" stroke-dasharray="6 4" marker-start="url(#mc)" marker-end="url(#ms)"/>
+<text x="1626" y="82.0" text-anchor="start" font-size="9" fill="#4A5568">Envío + factura</text>
+<circle cx="1200" cy="550" r="15" fill="#EAF6EC" stroke="#2E7D32" stroke-width="1.6"/>
+<polygon points="1200,543 1207,555 1193,555" fill="#fff" stroke="#1A2942"/>
+<text x="1200" y="577.0" text-anchor="middle" font-size="9" fill="#1A2942">Alerta de reposición</text>
+<text x="1200" y="588.5" text-anchor="middle" font-size="9" fill="#1A2942">recibida</text>
+<rect x="1265.0" y="526.0" width="110" height="48" rx="9" fill="#fff" stroke="#408186" stroke-width="1.6"/>
+<text x="1320" y="547.5" text-anchor="middle" font-size="10.5">Generar orden</text>
+<text x="1320" y="560.5" text-anchor="middle" font-size="10.5">de compra</text>
+<circle cx="1275.0" cy="533.5" r="3" fill="none" stroke="#1A2942"/><path d="M1270.0,542.0 Q1270.0,536.5 1275.0,536.5 Q1280.0,536.5 1280.0,542.0 Z" fill="none" stroke="#1A2942"/>
+<path d="M1215,550 L1263,550" fill="none" stroke="#1A2942" stroke-width="1.4" marker-end="url(#sq)"/>
+<path d="M1320,576 L1320,739" fill="none" stroke="#1A2942" stroke-width="1.2" stroke-dasharray="6 4" marker-start="url(#mc)" marker-end="url(#ms)"/>
+<text x="1326" y="720.0" text-anchor="start" font-size="9" fill="#4A5568">Orden de compra</text>
+<circle cx="1440" cy="550" r="15" fill="#FDECEC" stroke="#C62828" stroke-width="4"/>
+<text x="1440" y="577.0" text-anchor="middle" font-size="9" fill="#1A2942">Reposición</text>
+<text x="1440" y="588.5" text-anchor="middle" font-size="9" fill="#1A2942">solicitada</text>
+<path d="M1375,550 L1423,550" fill="none" stroke="#1A2942" stroke-width="1.4" marker-end="url(#sq)"/>
+<path d="M444,533 L444,563 A26,7 0 0 0 496,563 L496,533" fill="#fff" stroke="#1A2942"/><ellipse cx="470" cy="533" rx="26" ry="7" fill="#fff" stroke="#1A2942"/>
+<text x="470" y="585.0" text-anchor="middle" font-size="9" fill="#1A2942">Base de datos (PRODUCTO, LOTE,</text>
+<text x="470" y="596.5" text-anchor="middle" font-size="9" fill="#1A2942">VENTA, DETALLE_VENTA, FACTURA)</text>
+<path d="M450,527 L330,446" stroke="#1A2942" stroke-dasharray="2 3" fill="none"/>
+<path d="M496,539 L825,484" stroke="#1A2942" stroke-dasharray="2 3" fill="none"/>
+<path d="M1560,520 L1550,520 L1550,590 L1560,590" fill="none" stroke="#1A2942"/>
+<text x="1556" y="532.0" text-anchor="start" font-size="9" fill="#4A5568">La alerta es una señal: el</text>
+<text x="1556" y="543.5" text-anchor="start" font-size="9" fill="#4A5568">proceso de venta NO se</text>
+<text x="1556" y="555.0" text-anchor="start" font-size="9" fill="#4A5568">detiene; Compras la atiende</text>
+<text x="1556" y="566.5" text-anchor="start" font-size="9" fill="#4A5568">en su propio flujo.</text>
+</svg>
