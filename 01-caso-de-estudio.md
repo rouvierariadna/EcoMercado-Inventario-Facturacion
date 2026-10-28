@@ -19,4 +19,4 @@
 
 **Módulo Integrado de Control de Inventario y Facturación Automatizada**, que conecta Ventas, Depósito, Compras, Administración y Dirección alrededor de un mismo flujo de datos.
 
-📄 Documento completo: [`entregas/Entrega1_EcoMercado_Rouvier.pdf`](entregas/Entrega1_EcoMercado_Rouvier.pdf)
+📄 Documento completo: [`Entrega1_EcoMercado_Rouvier.pdf`](Entrega1_EcoMercado_Rouvier.pdf)

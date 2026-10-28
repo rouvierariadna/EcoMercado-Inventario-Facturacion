@@ -2,7 +2,7 @@
 
 **Proceso modelado:** venta con control de stock y facturación automática, tal como funcionará **con el módulo** (modelo *TO-BE*).
 
-![BPMN](img/bpmn-proceso-venta-facturacion.png)
+![BPMN](bpmn-proceso-venta-facturacion.png)
 
 ## Participantes
 
